@@ -19,5 +19,5 @@ This project automates attendance tracking using a real-time data flow system.
   🎥 Project Demo
 
 [Click here to watch demo]    
-(https://drive.google.com/file/d/1Hxlqj31uaJrUYx6UJt6E3OgspjglutRS/view?usp=drive_link)
+(https://drive.google.com/file/d/1HCFCuVqd1G-7eGjmLZRgOBliW89Ra3qw/view?usp=sharing)
 
